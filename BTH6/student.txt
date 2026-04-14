@@ -1,0 +1,7 @@
+SV001|Nguyen Van A|2004|CNTT|8.5|7.0|9.0
+SV002|Tran Thi B|2003|KinhTe|6.0|abc|7.5
+SV003|Le Van C|2005|CNTT|9.0|8.5|10
+SV004|Pham Thi D|2002|YDuoc|5.5|6.0|-1
+SV005|Hoang Van E|abcd|CNTT|7.0|8.0|9.0
+SV006|Do Thi F|2004|CNTT|10|9.5|8.5
+SV007|Nguyen Nhu|2005|YDuoc|5.0|7.5|6.0
